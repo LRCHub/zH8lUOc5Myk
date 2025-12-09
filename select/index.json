@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "素描",
+  "base_artist": "harha",
+  "createdAt": "2025-12-09T06:36:30.774524Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "素描",
+      "artist": "黄韵玲",
+      "has_synced": true,
+      "path": "select/01_素描_黄韵玲.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "素描",
+      "artist": "harha",
+      "has_synced": false,
+      "path": "select/pl_01_素描_harha.txt"
+    }
+  ]
+}
